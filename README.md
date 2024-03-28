@@ -1,0 +1,1 @@
+Build using Swing/JavaFX with file handling, basic features (formatting, cut/copy/paste, undo/redo, search/replace), event handling, and menu/toolbar. Optional: syntax highlighting, line numbering, Git integration. Test thoroughly.
